@@ -1,4 +1,5 @@
 # Awesome Ninety-Nine Problems [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of awesome Ninety-Nine Problems for various languages.
 
 > The purpose of this problem collection is to give you the opportunity to practice your skills in logic programming. Your goal should be to find the most elegant solution of the given problems. Efficiency is important, but logical clarity is even more crucial. Some of the (easy) problems can be trivially solved using built-in predicates. However, in these cases, you learn more if you try to find your own solution.
@@ -33,4 +34,6 @@ A curated list of awesome Ninety-Nine Problems for various languages.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, Faheel Ahmad has waived all copyright and related or neighboring rights to this work.
+Content of this repository is licensed under the [Creative Commons CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
+
+To the extent possible under law, [Syed Faheel Ahmad](https://faheel.com) has waived all copyright and related or neighboring rights to this work.
