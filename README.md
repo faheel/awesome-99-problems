@@ -42,6 +42,7 @@ A curated list of awesome Ninety-Nine Problems for various languages.
 ### Scala
 
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/) by Phil Gold
+- [S-99](https://github.com/asarkar/99-scala) by Abhijit Sarkar
 - [Ninety-Nine Problems in Scala](https://github.com/shekhargulati/99-problems/tree/master/scala) by Shekhar Gulati
 - [99 Problems in Scala](https://github.com/krailis/99-Problems/tree/master/Scala) by Konstantinos Railis
 - [S-99](https://github.com/arturka/S-99) by Artur Abdalimov
